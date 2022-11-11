@@ -51,3 +51,4 @@ streamlit
 tweepy==3.10.0
 joblib
 sklearn
+matplotlib
