@@ -36,13 +36,11 @@ scipy==1.9.2
 semver==2.13.0
 six==1.16.0
 smmap==5.0.0
-StreamListener==10.1
 threadpoolctl==3.1.0
 toml==0.10.2
 toolz==0.12.0
 tornado==6.2
 typing_extensions==4.4.0
-tweepy==4.12.1
 tzdata==2022.5
 tzlocal==4.2
 urllib3==1.26.12
@@ -50,5 +48,6 @@ validators==0.20.0
 watchdog==2.1.9
 zipp==3.9.0
 streamlit
+tweepy
 joblib
 sklearn
